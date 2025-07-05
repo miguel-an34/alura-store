@@ -76,8 +76,8 @@ Sinta-se à vontade para explorar, modificar e sugerir melhorias!
 
 ---
 
-Desenvolvido com 🧠 por [Miguel Antônio Barbosa Caetano]  
-📧 [miguelantoniobsk@gmail.com] | 💼 [www.linkedin.com/in/miguel-antoniobc
+Desenvolvido com 🧠 por Miguel Antônio Barbosa Caetano  
+📧 miguelantoniobsk@gmail.com | 💼 www.linkedin.com/in/miguel-antoniobc
 
-]
+
 
